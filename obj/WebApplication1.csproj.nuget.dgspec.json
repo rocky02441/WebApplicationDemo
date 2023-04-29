@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj": {}
+    "s:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "S:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj": {
+    "s:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "s:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "S:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "s:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Rockshan\\.nuget\\packages\\",
-        "outputPath": "S:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\obj\\",
+        "outputPath": "s:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rockshan\\AppData\\Roaming\\NuGet\\NuGet.Config",

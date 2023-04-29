@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKM0X9pZ8PpIoHP4fibeKEgmK2gifoL+q0oseTFfDJ61Ye4PTVskHvMiSogG+xVaFXFOCLPdPKrf5yAk+UOd9A==",
+  "dgSpecHash": "9wwZCQanJACvQXRCwm0+BlHz6M8Lrdsi+gkzXQeW0xrxMKOWEY1hYqJIPZmJ6IubPPWuNCG2s92d9v0B6tCGRg==",
   "success": true,
-  "projectFilePath": "S:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "s:\\DevOps\\Workspace\\TheGlobalVillage\\demo-project\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
